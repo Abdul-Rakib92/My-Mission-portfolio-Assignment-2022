@@ -100,3 +100,15 @@ h3{
 .seperate h2{
     text-align: start;
 }
+
+.Community{
+    background-image: url(./image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 20%;
+    margin-right: 3%;
+}
+
+.about img{
+    width: 90%;
+}
