@@ -44,3 +44,47 @@ p{
     padding: 10px 30px;
     border-radius: 25px;
 }
+
+.all-mission{
+    display: flex;
+    text-align: center;
+    padding-bottom: 100px;
+    margin: 60px;
+}
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h3{
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+}
+.illustrator-1{
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+    background-color: lightsalmon;
+    border-radius: 50px;
+
+}
+.illustrator-2{
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+    background-color: lightpink;
+    border-radius: 50px;
+
+}
+.illustrator-3{
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+    background-color: lightgreen;
+    border-radius: 50px;
+}
+.img-width{
+    width: 40%;
+}
